@@ -11,5 +11,7 @@ The goal is to use logistic regression to predict whether a patient based of the
 -The target: 10-year CHD represent('yes'-1, 'No'-0)
 
 Here is an Introductory Presentation/Powerpoint on this project
-[Project 2 part 3.pptx](https://github.com/maryawamaitha/ML-Project-2/files/8354555/Project.2.part.3.pptx)
+
+[Project 2.pptx](https://github.com/maryawamaitha/ML-Project-2/files/8438844/Project.2.pptx)
+(https://github.com/maryawamaitha/ML-Project-2/files/8354555/Project.2.part.3.pptx)
 https://drive.google.com/file/d/1YjQOND7zGSQX8gdxcIq7yU1AZsLh-CFu/view?usp=sharing

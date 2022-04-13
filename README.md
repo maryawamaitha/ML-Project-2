@@ -1,4 +1,4 @@
-# ML-Project-2
+# Machine Learning - Project-2: Coronary Heart Disease
 This is Heart Disease dataset is from Kaggle Heart Disease is one of the leading cause of death in both developed and developing countries.
 The aim of this analysis is to identify whether certain factors overall contribute to the risk of coronary heart disease.
 
